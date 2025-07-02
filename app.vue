@@ -4,6 +4,7 @@
       <nav>
         <div>
           <NuxtLink to="/">Home</NuxtLink> &nbsp;
+          <NuxtLink to="/incrementdecrement">Increment/Decrement</NuxtLink> &nbsp;
           <NuxtLink to="/shoppinglist">Shopping List</NuxtLink>
         </div>
         <br><br>
